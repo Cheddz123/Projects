@@ -1,0 +1,2 @@
+This is a project which i completed for an algorithms and data structures course. It was administered by Dr. Nicholas Farnan.
+The files that end with "_inter" as well as "app" were written by him. The rest were written by yours truly.
