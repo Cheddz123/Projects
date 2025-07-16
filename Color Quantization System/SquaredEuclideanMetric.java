@@ -1,4 +1,4 @@
-package cs1501_p5;
+
 
 public class SquaredEuclideanMetric implements DistanceMetric_Inter {
     /**

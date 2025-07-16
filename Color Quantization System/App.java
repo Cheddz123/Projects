@@ -3,7 +3,6 @@
  * @author	Dr. Farnan
  */
 
-package cs1501_p5;
 
 import java.awt.image.BufferedImage;
 import java.io.*;

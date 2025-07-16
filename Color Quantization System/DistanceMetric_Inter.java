@@ -4,7 +4,6 @@
  * @author  Brian T. Nixon
  * @author  Marcelo d'Almeida
  */
-package cs1501_p5;
 
 interface DistanceMetric_Inter {
     /**

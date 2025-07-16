@@ -1,4 +1,4 @@
-package cs1501_p5;
+
 
 public class CircularHueMetric implements DistanceMetric_Inter {
 
